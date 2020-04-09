@@ -1,0 +1,5 @@
+
+export const config = {
+    API_SERVER_IP: 'http://127.0.0.1:4000',
+    FILE_SERVER_IP: 'http://127.0.0.1:8080'
+}

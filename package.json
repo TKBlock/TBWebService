@@ -1,0 +1,48 @@
+{
+  "name": "webclient",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.3",
+    "@material-ui/core": "^4.8.0",
+    "@material-ui/icons": "^4.5.1",
+    "@reach/router": "^1.2.1",
+    "apollo-boost": "^0.4.4",
+    "apollo-cache-inmemory": "^1.6.3",
+    "apollo-link-http": "^1.5.16",
+    "apollo-upload-client": "^12.1.0",
+    "emotion": "^10.0.23",
+    "graphql": "^14.5.8",
+    "js-cookie": "^2.2.1",
+    "material-table": "^1.54.2",
+    "mkdirp": "^0.5.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-emotion": "^10.0.0",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.4",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+
+}
+
+html {
+  height: 100vh;
+  background-color: #eaeff1;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
